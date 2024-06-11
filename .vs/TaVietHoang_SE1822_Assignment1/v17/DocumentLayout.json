@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\addcustomerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\addcustomerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\addroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\addroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\updatecustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\updatecustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\customerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\customerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\updatecustomerinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\updatecustomerinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\proj\\taviethoang_se1822_assignment1\\hotelmanagementwpfapp\\updateroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\updateroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\App.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\App.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:00:08.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\Admin.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\Admin.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\Admin.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:57:54.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\LoginForm.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\LoginForm.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\LoginForm.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\LoginForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:57:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateCustomer.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\UpdateCustomer.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\UpdateCustomer.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\UpdateCustomer.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\UpdateCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:57:42.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateRoom.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\UpdateRoom.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\UpdateRoom.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\UpdateRoom.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\UpdateRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:53:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateCustomerInfo.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\UpdateCustomerInfo.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\UpdateCustomerInfo.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\UpdateCustomerInfo.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\UpdateCustomerInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:48:08.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerForm.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\CustomerForm.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\CustomerForm.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\CustomerForm.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\CustomerForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:46:40.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRoom.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\AddRoom.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\AddRoom.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\AddRoom.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\AddRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:44:38.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCustomerForm.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\AddCustomerForm.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\AddCustomerForm.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\proj\\TaVietHoang_SE1822_Assignment1\\HotelManagementWPFApp\\AddCustomerForm.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\AddCustomerForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T14:42:44.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
